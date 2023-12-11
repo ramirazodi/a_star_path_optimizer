@@ -2,7 +2,7 @@
 <img width="609" alt="pic1" src="https://github.com/ramirazodi/a_star_path_optimizer/assets/106940649/d1b8238d-04ad-445f-8d59-1c3c870efcd7">
 <img width="608" alt="pic2" src="https://github.com/ramirazodi/a_star_path_optimizer/assets/106940649/dd2305e2-b4d7-471c-913d-14c79ab87fc1">
 
-# A* Pathfinding Visualization
+# A* Optimal Pathfinding Algorithm & Visualizer
 
 This project implements the A* pathfinding algorithm with a graphical user interface to visualize the algorithm in action. It allows users to set start and end points, draw barriers, and visualize the pathfinding process in a grid layout.
 
